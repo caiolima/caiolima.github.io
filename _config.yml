@@ -7,11 +7,6 @@ about: I'm a programmer that is very interested in programming languages and ope
 enableTags: true
 tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
 social:
     - icon: fa-twitter
       link: "https://twitter.com/caio_nepo"
