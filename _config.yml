@@ -1,8 +1,8 @@
-title: Ca.io
+title: "Ca.io"
 description: Personal blog to share my learning about programming languages
 author: Caio Lima
 github: https://github.com/caiolima
-about: I'm a programmer that is very interested in programming languages and operating systems
+about: "I'm a programmer that is very interested in programming languages and operating systems"
 
 enableTags: true
 tagarray: []
